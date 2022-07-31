@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputProject", "OutputProject\OutputProject.csproj", "{D5E2EC74-0CFA-43CA-B4D1-C9B42F9A5A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputProject.Tests", "OutputProject.Tests\OutputProject.Tests.csproj", "{97063EF3-5701-488F-8859-043948D68191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freka", "Freka\Freka.csproj", "{6E00F2FF-8264-434C-B8AD-456DF2E5A857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E2EC74-0CFA-43CA-B4D1-C9B42F9A5A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E2EC74-0CFA-43CA-B4D1-C9B42F9A5A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E2EC74-0CFA-43CA-B4D1-C9B42F9A5A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E2EC74-0CFA-43CA-B4D1-C9B42F9A5A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97063EF3-5701-488F-8859-043948D68191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97063EF3-5701-488F-8859-043948D68191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97063EF3-5701-488F-8859-043948D68191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97063EF3-5701-488F-8859-043948D68191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E00F2FF-8264-434C-B8AD-456DF2E5A857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E00F2FF-8264-434C-B8AD-456DF2E5A857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E00F2FF-8264-434C-B8AD-456DF2E5A857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E00F2FF-8264-434C-B8AD-456DF2E5A857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB913A3-EA26-4F56-9CA6-16F2A278F7A6}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+	EndGlobalSection
+EndGlobal

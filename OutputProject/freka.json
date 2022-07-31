@@ -1,0 +1,18 @@
+﻿{
+  "ProjectName": "OutputProject",
+  "Messaging": {
+    "ClientName": "ServiceBusClient",
+    "Input": [
+      {
+        "QueueName": "Message",
+        "MessageName": "Message",
+        "Type": "ServiceBus",
+        "Output": {
+          "QueueName": "Response",
+          "MessageName": "Response",
+          "Type": "ServiceBus"
+        }
+      }
+    ]
+  }
+}
